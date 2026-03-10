@@ -1,3 +1,11 @@
-Tudo do começo que bagulho sinistro 
 
-Teste de subistituição 
+# Olá ,mundo!!! 
+
+Primeiro repositorio do curso de git e github
+
+Teste atualização pelo VC. 
+
+
+
+
+
